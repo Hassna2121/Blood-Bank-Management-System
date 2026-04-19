@@ -249,7 +249,7 @@ GO
 -- Quality Control table output
 SELECT * FROM QualityControl;
 GO
-
+   
 -- Views output (optional)
 SELECT * FROM vw_AvailableBlood;
 GO
